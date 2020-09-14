@@ -1,6 +1,6 @@
 ---
 url: https://maskoolin.COm
-baseurl: /maskoolin
+baseurl: 
 version: v1.2.0
 kramdown:
   input: GFM
